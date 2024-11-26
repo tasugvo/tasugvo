@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💼 Work with technology since 2019<br>📚 I'm currently learning data structure<br>🎯 Goals: I want to be a good back end developer<br>🎲 Fun fact: I like developing games in my spare time</p>
+<p align="left">💼 Work with technology since 2019<br>📚 I'm currently learning SOLID and Qlik Sense AQL<br>🎯 Goals: I want to be a good back end developer<br>🎲 Fun fact: I like developing games in my spare time</p>
 
 ###
 
