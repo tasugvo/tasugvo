@@ -13,5 +13,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="file_type_qlikview_icon_130217" height="40" alt="qlik logo" />
+  <img src="https://raw.githubusercontent.com/tasugvo/tasugvo/refs/heads/main/file_type_qlikview_icon_130217.ico" height="40" alt="qlik logo" />
 </div>
