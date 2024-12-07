@@ -11,9 +11,9 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/tasugvo/tasugvo/refs/heads/main/icons/file_type_qlikview_icon_130217.ico" height="40" alt="qlik logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
 <!--   <img src="https://raw.githubusercontent.com/tasugvo/tasugvo/refs/heads/main/icons/PikPng.com_unreal-engine-4-logo_5434947.ico" height="40" alt="unrealengine logo"  /> -->
 </div>
