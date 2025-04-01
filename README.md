@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">💼 Work with technology since 2019<br>📚 I'm currently learning SOLID and Qlik Plaform<br>🎯 Goals: I want to be a good back end developer<br>🎲 Fun fact: I like developing games in my spare time</p>
+<p align="left">💼 Work with technology since 2019<br>📚 I'm currently learning SOLID and Qlik Platform<br>🎯 Goals: I want to be a good back end developer<br>🎲 Fun fact: I like developing games in my spare time</p>
 
 <h2 align="left">Technologies I work</h2>
 
