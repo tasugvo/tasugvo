@@ -1,27 +1,32 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hello, I'm Gustavo Ricci
 
-<p align="left">My name is Gustavo Ricci and I'm a software engineer student, from Brazil</p>
+I'm a software engineering student from Brazil, passionate about back-end development and data analysis.
 
-<h2 align="left">About me</h2>
+---
 
-<p align="left">💼 Work with technology since 2019<br>📚 I'm currently learning SOLID and Qlik Platform<br>🎯 Goals: I want to be a good back end developer<br>🎲 Fun fact: I like developing games in my spare time</p>
+## 🚀 About Me
+- 💼 Working with technology since 2019  
+- 📚 Currently learning **SOLID principles** and **Qlik Platform**  
+- 🎯 Goal: Become a skilled back-end developer  
+- 🎲 Fun fact: I enjoy developing games in my spare time  
 
-<h2 align="left">Technologies I work</h2>
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/tasugvo/tasugvo/refs/heads/main/icons/file_type_qlikview_icon_130217.ico" height="40" alt="qlik logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-</div>
-<br>
+## 🛠️ Technologies I Work With
 
 <div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tasugvo&layout=compact)
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java logo"/>
+  <img width="20"/>
+  <img src="https://raw.githubusercontent.com/tasugvo/tasugvo/refs/heads/main/icons/file_type_qlikview_icon_130217.ico" height="50" alt="Qlik logo"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo"/>
 </div>
 
-<br>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasugvo&layout=compact&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tasugvo&show_icons=true&theme=dark" height="150"/>
+</div>
