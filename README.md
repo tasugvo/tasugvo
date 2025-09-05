@@ -16,9 +16,7 @@ I'm a software engineering student from Brazil, passionate about back-end develo
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java logo"/>
-  <img width="20"/>
   <img src="https://raw.githubusercontent.com/tasugvo/tasugvo/refs/heads/main/icons/file_type_qlikview_icon_130217.ico" height="50" alt="Qlik logo"/>
-  <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo"/>
 </div>
 
