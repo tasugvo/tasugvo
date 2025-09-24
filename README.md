@@ -1,3 +1,4 @@
+<samp>
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">I'm a software engineering student from Brazil, fascinated by computing, development and data engineering.</p>
@@ -5,13 +6,16 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Creating bugs since 2022<br>
+💻 Creating code since 2022<br>
 📚 Currently learning Clean Code Principles and the Qlik Sense platform<br>
 🎯 Becoming a full stack software and data engineer<br>
 🎲 Fun fact: leetcode is cool
 </p>
+</samp>
 
+<samp>
 <h2 align="left">I code with</h2>
+</samp>
 
 <table align="center">
   <tr>
