@@ -35,9 +35,10 @@
 </table>
 
 <br>
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasugvo&layout=compact&theme=dark" height="150"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=tasugvo&show_icons=true&theme=dark" height="150"/>
 </p>
+-->
