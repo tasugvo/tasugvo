@@ -6,7 +6,7 @@
 💻 Creating code since 2022<br>
 📚 Currently learning software architecture and the Data Engineering<br>
 🎯 Becoming a back-end developer and data engineer<br>
-🎲 Fun fact: leetcode is cool
+🎲 Fun fact: i hate leetcode 
 </p>
 </samp>
 
