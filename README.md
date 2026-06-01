@@ -1,14 +1,11 @@
 <samp>
 <h1 align="left">Hey 👋 What's up?</h1>
-
 <p align="left">I'm a software engineering student from Brazil, fascinated by computing, development and data engineering.</p>
-
 <h2 align="left">About me</h2>
-
 <p align="left">
 💻 Creating code since 2022<br>
-📚 Currently learning Clean Code Principles and the Qlik Sense platform<br>
-🎯 Becoming a full stack software and data engineer<br>
+📚 Currently learning software architecture and the Data Engineering<br>
+🎯 Becoming a back-end developer and data engineer<br>
 🎲 Fun fact: leetcode is cool
 </p>
 </samp>
@@ -17,6 +14,13 @@
 <h2 align="left">I code with</h2>
 </samp>
 
+<samp>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tasugvo/tasugvo/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+</samp>
+
+<!--
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -35,7 +39,7 @@
 </table>
 
 <br>
-<!--
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasugvo&layout=compact&theme=dark" height="150"/>
   &nbsp;&nbsp;
