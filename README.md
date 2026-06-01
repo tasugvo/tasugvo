@@ -14,11 +14,11 @@
 <h2 align="left">I code with</h2>
 </samp>
 
-<samp>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tasugvo/tasugvo/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/tasugvo/tasugvo/main/languages.svg" height="150" alt="languages graph"  />
 </div>
-</samp>
+
 
 <!--
 <table align="center">
